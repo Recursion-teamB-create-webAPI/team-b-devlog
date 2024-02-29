@@ -79,6 +79,8 @@ JSONを取得して、その先の実装方法を検討してました。
 
 - mainブランチに直接マージしました。<br>もとに戻ったことは確認しました。
 
+- MongoDBのインストールで、「mongoDB Active: failed (Result: core-dump)」というエラーが発生している。
+
 #### TlexCypher(taichi)
 
 欠席
