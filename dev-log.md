@@ -178,7 +178,7 @@ JWTによるログインとバックエンドをつなぐ処理
 
 #### Naonao3(Naoto)
 
-- MongoDBがインストールできない
+- MongoDBがインストールできない<br>時間の制約もあるため、問題解決は諦めます。<br>**データベースは、MongoDBからMySQLに変更します。**
 
 #### TlexCypher(taichi)
 
@@ -187,15 +187,11 @@ JWTによるログインとバックエンドをつなぐ処理
 ### 今後の課題
 #### Aki158
 
-ユニットテスト
-
-go_test
-
-調べて、やります。
+- MySQLでエンドポイントの実装を修正する
+- ユニットテスト(go_test)調べて、やります
 
 #### Naonao3(Naoto)
 
-- MongoDBインストール
 - リスト表示の実装
 
 #### TlexCypher(taichi)
